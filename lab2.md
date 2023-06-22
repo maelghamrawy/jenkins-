@@ -21,4 +21,8 @@ Environment variables: are values that are set in the Jenkins environment. They 
 5- What is organization folder job and what is used for ?
 Type of folder that automatically creates multi-branch pipelines for all the repositories in a GitHub of company,By using organization folder jobs in Jenkins, company can automate the CI/CD process for multiple projects. This can save time and effort, and it can also help to improve the quality of code
 
-6) Create jenkins pipeline for your repo and use script file (jenkinsfile) to write pipeline syntax, include parameter functions and env variable in it ? 
+6) Create jenkins pipeline for your repo and use script file (jenkinsfile) to write pipeline syntax, include parameter functions and env variable in it ?
+   
+![Screenshot 2023-06-23 004654](https://github.com/maelghamrawy/jenkins-/assets/28117071/09d7352e-0742-48cd-bef2-3fde1375ee15)
+
+![Screenshot 2023-06-23 003545](https://github.com/maelghamrawy/jenkins-/assets/28117071/853711e4-6bda-4e79-97f6-7d7a86d568b6)

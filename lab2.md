@@ -26,3 +26,11 @@ Type of folder that automatically creates multi-branch pipelines for all the rep
 ![Screenshot 2023-06-23 004654](https://github.com/maelghamrawy/jenkins-/assets/28117071/09d7352e-0742-48cd-bef2-3fde1375ee15)
 
 ![Screenshot 2023-06-23 003545](https://github.com/maelghamrawy/jenkins-/assets/28117071/853711e4-6bda-4e79-97f6-7d7a86d568b6)
+
+7) Create another multibranch pipeline and filter branches to contain only (master , dev , test ) ?
+![Screenshot 2023-06-23 005746](https://github.com/maelghamrawy/jenkins-/assets/28117071/c97bdcb4-a1f3-4f60-958f-37a116474464)
+![Screenshot 2023-06-23 005834](https://github.com/maelghamrawy/jenkins-/assets/28117071/10f217be-f0d5-43f8-a41a-a3a7fc8169e7)
+
+
+
+
